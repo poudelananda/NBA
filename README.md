@@ -10,4 +10,4 @@ Current Process is as follows:
 
 What is being worked on:
  * NLP model from different sources to identify topics that are being talked about regarding a specific player.
- * Improving the regression model for better accuracy.
+ * Creating a regression model.
